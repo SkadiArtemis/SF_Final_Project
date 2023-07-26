@@ -1,0 +1,12 @@
+БД:
+    POSTGRESQL
+    Таблицы:
+        machineries
+        maintenances
+        reclamations
+    Настройки БД:
+        DB_NAME
+        DB_HOST
+        DB_PORT
+    Поля в таблицах совпадают с одноименными моделями в файле models.py
+
